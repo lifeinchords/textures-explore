@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+.grunt/
+.idea
+.npm/
+node_modules
+tmp
+.env
+app/bower_components/

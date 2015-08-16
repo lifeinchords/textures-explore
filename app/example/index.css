@@ -1,0 +1,12 @@
+
+body {   
+  padding: 0;
+  margin: 0;
+}
+
+.col{
+  width: 33vw;
+  height: 100%;
+  overflow: hidden;
+  display: inline-block;
+}
